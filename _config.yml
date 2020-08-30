@@ -1,1 +1,3 @@
 include:[".well-known"]
+include:["pki-validation"]
+include:["/pki-validation/F9874704BECB2E2296BE8C835F0CB4FB.txt"]
